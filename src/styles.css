@@ -6,3 +6,15 @@
 .parent-col {
   border: 10px solid black;
 }
+
+.row1 {
+  background: green !important;
+}
+
+.row2 {
+  background: blue !important;
+}
+
+.row3 {
+  background: yellow !important; 
+}
